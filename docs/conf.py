@@ -213,7 +213,7 @@ latex_elements = {
           %}
           %\\\\renewcommand{\\headrulewidth}{0.4pt}
            %\\renewcommand{\\footrulewidth}{0.4pt}
-          %\makeatother
+          %\\\\makeatother
            ''',
 # The paper size ('letterpaper' or 'a4paper').
 'papersize': 'a4paper',
